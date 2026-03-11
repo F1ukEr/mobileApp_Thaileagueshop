@@ -34,5 +34,5 @@
 
 ##โปรเจกต์นี้มีการแนบไฟล์ google-services.json สำหรับการตั้งค่า Firebase บน Android ไว้แล้ว สามารถเสียบสายเชื่อมต่ออุปกรณ์จริงหรือเปิด Emulator แล้วรันคำสั่งด้านล่างได้ทันที:
 
-'''Bash
-  flutter run
+```bash
+   flutter run
